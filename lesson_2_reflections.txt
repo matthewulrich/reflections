@@ -12,3 +12,9 @@ the repository is where actual commits are stored.
 
 It allows you to decide which specific files you want to track changes for instead of 
 tracking all files.
+
+How can you use the staging area to make sure you have one commit per logicl change?
+
+When you have made a logical change, you can add it to the staging area and commit it. 
+If you have made a change and already commited it, the staging area will be empty when 
+you check it, so you will know that you have made the commit.
