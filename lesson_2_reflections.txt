@@ -1,0 +1,4 @@
+What happens when you initialize a respository? Why do you need to do it?
+
+It creates a .git directory with metadata about the history of the repository since it was created.
+You need to do it so you can make commits.
