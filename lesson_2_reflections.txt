@@ -2,3 +2,13 @@ What happens when you initialize a respository? Why do you need to do it?
 
 It creates a .git directory with metadata about the history of the repository since it was created.
 You need to do it so you can make commits.
+
+How is the staging area different from the working directory and the repository? What 
+value do you think it offers?
+
+The staging area is different from the working directory in that it contains only the 
+files that we want to track changes for. It is different from the repository in that 
+the repository is where actual commits are stored.
+
+It allows you to decide which specific files you want to track changes for instead of 
+tracking all files.
