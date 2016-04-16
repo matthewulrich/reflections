@@ -1,6 +1,7 @@
 What happens when you initialize a respository? Why do you need to do it?
 
-It creates a .git directory with metadata about the history of the repository since it was created.
+It creates a .git directory with metadata about the history of the repository since it 
+was created.
 You need to do it so you can make commits.
 
 How is the staging area different from the working directory and the repository? What 
@@ -18,3 +19,12 @@ How can you use the staging area to make sure you have one commit per logicl cha
 When you have made a logical change, you can add it to the staging area and commit it. 
 If you have made a change and already commited it, the staging area will be empty when 
 you check it, so you will know that you have made the commit.
+
+What are sme situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+Branches are helpful keeping your history organized when you make experimental versions 
+of files, or different versions of files.
+Branches help by keeping your experimental or new changes separate from your official 
+version, so that you can always go back to it later. Also, if you find a bug in the 
+official version, you can fix it without changing other versions.
