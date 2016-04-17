@@ -28,3 +28,8 @@ of files, or different versions of files.
 Branches help by keeping your experimental or new changes separate from your official 
 version, so that you can always go back to it later. Also, if you find a bug in the 
 official version, you can fix it without changing other versions.
+
+How do the diagrams help you visualize the branch structure.
+
+They help by showing you all the branches as well as the various commits that have been 
+made and the reachability of each commit to other commits.
