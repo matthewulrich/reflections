@@ -43,3 +43,9 @@ a reference.
 
 We represent it in the diagram the way we do because we are bringing the code in both 
 branches together into one file.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+The pros of Git"s automatic merging is that you don't have go into the file and resolve 
+conflicts while doing a merge. The cons is that sometimes code might be added that will 
+generate an error or prevent the code from executing.
