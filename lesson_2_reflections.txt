@@ -33,3 +33,13 @@ How do the diagrams help you visualize the branch structure.
 
 They help by showing you all the branches as well as the various commits that have been 
 made and the reachability of each commit to other commits.
+
+What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
+
+The result of merging two branches together is that we combine the code from the final 
+commits of both of those branches into one file while looking at the original commit as 
+a reference.
+
+We represent it in the diagram the way we do because we are bringing the code in both 
+branches together into one file.
