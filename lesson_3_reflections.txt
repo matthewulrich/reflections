@@ -11,3 +11,14 @@ You might want to pull changes manually because you might have made changes to y
 branch since you last pushed it and another user might have made changes to the one in the 
 remote repository, so they will have diverged, and pulling changes will override your 
 changes to the local master.
+
+Describe the differences between forks, clones, and branches. When wuld you use one instead 
+of another.
+
+A fork is a clone that is made on GitHub. A clone is code that you pull down from GitHub to 
+your own machine. A branch is a label for code that is not part of the master version of the 
+code.
+You use a fork when you want to make a copy of someone else's repository directly on the 
+GitHub servers. A clone is used when you want to pull a repository that is on GitHub down to 
+your local machine. A branch is used when you want to create separate commits that don't 
+affect the main branch if you wanted to try out some experimental feature.
