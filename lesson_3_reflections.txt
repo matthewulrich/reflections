@@ -28,3 +28,15 @@ What is the benefit of having a copy of the last known state of the remote store
 The benefit is that if you are collaborating with someone, you can work offline with the most 
 updated version, like when you need to take a plan and can't access the remote version of the 
 repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would 
+be harder?
+
+Without using Git or GitHub you would have to send files back and forth to each other or 
+you would have to use a tool like DropBox which doesn't work offline or allow you to commit 
+at only at logic points.
+
+It would be easier because you wouldn't have to be careful with 
+merging and overwritting code accidentally. It would be harder because you wouldn't have an 
+easy way for people to review your code and make suggestions, or add another branch that 
+could be merged later with the master branch with a pull request.
