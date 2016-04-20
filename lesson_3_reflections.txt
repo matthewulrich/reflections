@@ -40,3 +40,10 @@ It would be easier because you wouldn't have to be careful with
 merging and overwritting code accidentally. It would be harder because you wouldn't have an 
 easy way for people to review your code and make suggestions, or add another branch that 
 could be merged later with the master branch with a pull request.
+
+When would you want to make changes in a separate branch rather than directly in master? What 
+benefit does each approach have?
+
+You would want to make changes in master when you are working alone or with one or two other 
+people. You would want to make changes in a separate branch when you are working with a large 
+group of people because you can see which changes have already been reviewed and approved.
