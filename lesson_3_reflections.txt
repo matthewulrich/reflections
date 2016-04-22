@@ -26,7 +26,7 @@ affect the main branch if you wanted to try out some experimental feature.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit is that if you are collaborating with someone, you can work offline with the most 
-updated version, like when you need to take a plan and can't access the remote version of the 
+updated version, like when you need to take a plane and can't access the remote version of the 
 repository.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would 
